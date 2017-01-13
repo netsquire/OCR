@@ -1,0 +1,61 @@
+Sales Invoice Requisition
+Merchant:
+
+Warwick Sport,
+University of Warwick
+West Midlands CV4 7AL, United Kingdom
+
+Invoice ID: 1665752
+
+ 
+
+Date Submitted 17/10/2012
+
+ 
+
+Customer Name Deloitte UK, Emily Brown
+
+ 
+
+Four Brindleyglace,
+Birmingham,
+Address BlZHZ
+
+Phone: 07890 123456
+
+ 
+
+ 
+
+ 
+
+ 
+
+Product Description Qty Unit Total
+Cost (£)
+Sponsorship Package 1 £1500 £1500
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total (Ignore VAT) £1500
+
+ 
+
+ 
+
+Thank you for your purchase.
+Best regards,
+
+Olivia Grace
+Warwick Sport
+
+ 
+

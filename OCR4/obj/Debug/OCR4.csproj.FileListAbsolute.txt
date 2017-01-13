@@ -1,0 +1,11 @@
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\App.g.cs
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4_Content.g.cs
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4_MarkupCompile.cache
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4_MarkupCompile.lref
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\MainWindow.baml
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4.g.resources
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4.Properties.Resources.resources
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4.csproj.GenerateResource.Cache
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4.exe
+C:\Users\IEUser\documents\visual studio 2015\Projects\OCR4\OCR4\obj\Debug\OCR4.pdb
